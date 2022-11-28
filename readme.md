@@ -5,7 +5,7 @@
 ## Ejemplo en vivo
 
 - [repositorio-sunnyside](https://github.com/elvvira/practica-sunnyside)
-- [URL-de-la-api](URL-de-la-api)
+- [URL-de-la-api](https://elvvira.github.io/practica-sunnyside/)
 
 ## Descripción 📑
 
@@ -27,23 +27,18 @@ Durante la realización de este proyecto he aprendido a hacer un menú desplegab
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://github.com/elvvira/practica-sunnyside/blob/main/assets/sunnyside-mobile.jpeg?raw=true)
+
 
 ## Autor ✒️
 
-**TU NOMBRE**
+**Elvira Castellanos**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+- [LinkedIn](https://es.linkedin.com/in/elvira-guerrero-castellanos-39293b208?trk=people-guest_people_search-card)
+- [Porfolio web](https://elvvira.github.io/portfolio-final/)
 
-## Instalación
+## Fuentes
+Proyecto extraído de:
 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef
 
-## Licencia 📄
-
-MIT Public License v3.0
-No puede usarse comencialmente.
