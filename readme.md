@@ -1,19 +1,19 @@
 # Sunnyside
 
-![Imagen del proyecto](https://github.com/elvvira/practica-sunnyside/tree/main/assets/sunnyside-fianl)
+![Imagen del proyecto](https://github.com/elvvira/practica-sunnyside/blob/main/assets/sunnyside-final.jpeg?raw=true)
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
+- [repositorio-sunnyside](https://github.com/elvvira/practica-sunnyside)
 - [URL-de-la-api](URL-de-la-api)
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Este proyecto trata sobre una web de una agencia creativa que transforma tu marca. 
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Durante la realización de este proyecto he aprendido a hacer un menú desplegable con JavaScript; Con este proyecto fue la primera vez que usé JS, lo hice a traves de eventos de escucha añadiendo y quitando clases a los elementos manipulando el DOM. en este proyecto también realicé por primera vez una web responsive.
 
 ## Tecnologías 🛠
 
