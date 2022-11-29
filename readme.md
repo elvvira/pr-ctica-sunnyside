@@ -4,8 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [repositorio-sunnyside](https://github.com/elvvira/practica-sunnyside)
-- [URL-de-la-api](https://elvvira.github.io/practica-sunnyside/)
+- [repositorio-sunnyside](https://elvvira.github.io/practica-sunnyside/)
 
 ## Descripción 📑
 
